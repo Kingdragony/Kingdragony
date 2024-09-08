@@ -3,3 +3,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 
+
+CONTACT ARLODRAGON 
+- <a aria-label="Join our chats" href="https://wa.me/254743830660?text=Hi!! `ARLODRAGON` Sir, I need Your Help" target="_blank">
+    <img alt="tiktok" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
