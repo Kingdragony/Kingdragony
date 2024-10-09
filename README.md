@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a1fd461c49539f754af23.jpg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/jQh5iIT.jpeg" alt="01" border="0" /></a>
 </p>
 
 
@@ -81,8 +81,8 @@
 <div align="center">
 
 <a href="https://github.com/kingdragony/">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingdragony &include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingdragony &show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="kingdragony"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kindragony&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kingdragony&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Kingdragony"/>
 
 </a>
 </div>
@@ -155,6 +155,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arlodragon &label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-Credit: [Khalid Officially](https://github.com/kindragon)
+Credit: [ARLODRAGON](https://github.com/kindragon)
 
 © Arlodragon 
