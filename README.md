@@ -120,7 +120,7 @@
 
 <li>
 <a href="denniskipkoe393@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  khalid-official-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  ARLODRAGON-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
